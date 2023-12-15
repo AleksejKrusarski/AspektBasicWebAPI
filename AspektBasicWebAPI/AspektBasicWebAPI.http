@@ -1,0 +1,6 @@
+@AspektBasicWebAPI_HostAddress = http://localhost:5110
+
+GET {{AspektBasicWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
